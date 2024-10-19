@@ -116,6 +116,63 @@ Para melhorar a estética, foi implementada a remoção das barras de rolagem vi
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
         </section>
 
         <section class="center">
@@ -124,11 +181,98 @@ Para melhorar a estética, foi implementada a remoção das barras de rolagem vi
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
         </section>
 
         <section class="right">
             <p>Conteúdo da seção direita.</p>
             <p>Texto de exemplo para a rolagem independente nesta seção. Adicione mais conteúdo para testar a rolagem.</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
             <p>Mais conteúdo...</p>
