@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página com Layout de Sessões</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body, html {
+            height: 100%;
+            font-family: Arial, sans-serif;
+            overflow: hidden; /* Evita rolagem na página principal */
+        }
+
+        /* Header fixo */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 60px;
+            background-color: purple;
+            color: white;
+            text-align: center;
+            line-height: 60px;
+            font-size: 24px;
+            z-index: 1000;
+        }
+
+        /* Layout das três seções */
+        main {
+            display: flex;
+            height: 100%;
+            margin-top: 60px; /* Ajusta o espaço devido ao header */
+        }
+
+        section {
+            height: calc(100vh - 60px); /* Altura total menos a altura do header */
+            overflow-y: auto; /* Rolagem somente na seção */
+        }
+
+        /* Esconde a barra de rolagem para Webkit (Chrome, Safari) */
+        section::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Seção da esquerda */
+        .left {
+            width: 15%;
+            background-color: brown;
+        }
+
+        /* Seção central */
+        .center {
+            width: 55%;
+            background-color: blue;
+        }
+
+        /* Seção da direita */
+        .right {
+            width: 30%;
+            background-color: red;
+        }
+
+        /* Estilos opcionais para conteúdo */
+        p {
+            padding: 10px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Título
+    </header>
+
+    <main>
+        <section class="left">
+            <p>Conteúdo da seção esquerda.</p>
+            <p>Texto de exemplo para a rolagem independente nesta seção. Adicione mais conteúdo para testar a rolagem.</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+        </section>
+
+        <section class="center">
+            <p>Conteúdo da seção central.</p>
+            <p>Texto de exemplo para a rolagem independente nesta seção. Adicione mais conteúdo para testar a rolagem.</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+        </section>
+
+        <section class="right">
+            <p>Conteúdo da seção direita.</p>
+            <p>Texto de exemplo para a rolagem independente nesta seção. Adicione mais conteúdo para testar a rolagem.</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+            <p>Mais conteúdo...</p>
+        </section>
+    </main>
+</body>
+</html>
